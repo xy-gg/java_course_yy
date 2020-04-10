@@ -30,7 +30,10 @@ public class CourseTest {
     }
     public static void main(String[] args) {
         CourseTest.testNewStudent();
-
+        String s1 = "\"It's freezing in here\",he said coldly";
+        System.out.println(s1);
+        System.out.println("com\\sc\\aa");
+        System.out.println(s1.getClass().getName());
     }
 
 }

@@ -16,11 +16,11 @@ public class Course {
     }
 
     public void setNode(String node) {
-        this.cNode = node ;
+        this.cNode = node;
     }
 
     public void setCourse(boolean course) {
-        this.requiredCourse = course ;
+        this.requiredCourse = course;
     }
 
     public String getName() {
